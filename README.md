@@ -88,7 +88,7 @@ Meet the developers behind NetNinja and find ways to get in touch.
 ## 📬 Contact
 
 📧 support@gmail.com  
-📞 +91 12345 67890  
+📞 Currently Not Available
 📮 Feedback form available on the About Us page
 
 ---
