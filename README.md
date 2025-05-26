@@ -49,11 +49,11 @@ Meet the developers behind NetNinja and find ways to get in touch.
 
 ## 👨‍💻 Developers
 
-### Parth Deshpande – Lead Developer
+### Parth Deshpande – Developer 1
 - Frontend Development: ReactJS, JSX, HTML, CSS, JavaScript
 - UI architecture and component design
 
-### Pratyush Dubey – UI/UX & Firebase Integration
+### Pratyush Dubey – Developer 2
 - Interface design and flow
 - Backend integration using Firebase
 - Planning and documentation
