@@ -3,6 +3,8 @@
 **NetNinja** is an interactive and playful digital space designed to educate children (ages 5–15) about cyber safety in a fun, engaging, and meaningful way. With vibrant visuals, animated tales, and gamified learning, **NetNinja** empowers the next generation to be confident, aware, and safe while navigating the digital world.
 
 ---
+## Live Link -
+https://netninja-admin.web.app/
 
 ## 🌟 Key Features
 
